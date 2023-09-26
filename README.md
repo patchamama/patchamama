@@ -3,7 +3,7 @@
 # <div align="center">
 
   <div style="display: inline-block">
-  <a href="https://github.com/patchamama">
+ 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patchamama&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patchamama&layout=compact&langs_count=7&theme=dracula"/>
     </div>
 </div>
@@ -28,11 +28,16 @@
 <span><img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 </span>
 
+<span><img align="center" alt="PostgreSql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+</span>
+
+<span><img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+</span>
+
 <br><br>
 
 🌱 I’m currently learning ...
-<span><img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></span>
-<span>
+<span><img align="center" alt="Typescript" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></span> and enrolled in the [Full Stack open to _Deep Dive Into Modern Web Development_](https://github.com/patchamama/fullstackopen-2023).
 
 <span><a href="www.linkedin.com/in/armando-urquiola-cabrera-bb879915" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></span>
 
