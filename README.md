@@ -34,11 +34,13 @@
 <span><img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></span>
 <span>
 
-# ![Snake animation](/github-grid-snake.svg)
-
 <span><a href="www.linkedin.com/in/armando-urquiola-cabrera-bb879915" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></span>
 
 <!--
+# ![Snake animation](/github-grid-snake.svg)
+https://docs.github.com/es/actions/quickstart
+https://github.com/Platane/snk
+
 **patchamama/patchamama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
