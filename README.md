@@ -37,6 +37,8 @@
 <span><a href="www.linkedin.com/in/armando-urquiola-cabrera-bb879915" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></span>
 
 <!--
+https://github.com/anuraghazra/github-readme-stats
+
 # ![Snake animation](/github-grid-snake.svg)
 https://docs.github.com/es/actions/quickstart
 https://github.com/Platane/snk
