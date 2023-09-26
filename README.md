@@ -37,7 +37,7 @@
 🌱 I’m currently learning ...
 <span><img align="center" alt="Typescript" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></span> and enrolled in the ["Full Stack open" to _Deep Dive Into Modern Web Development_](https://github.com/patchamama/fullstackopen-2023).
 
-<span><a href="www.linkedin.com/in/armando-urquiola-cabrera-bb879915" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></span>
+<span><a href="https://www.linkedin.com/in/armando-urquiola-cabrera-bb879915" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></span>
 
 <!--
 https://github.com/anuraghazra/github-readme-stats
