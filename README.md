@@ -12,6 +12,7 @@
 <span><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></span>
 <span><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></span>
 <span><img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></span>
+<span><img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></span>
 <span><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></span>
 <span><img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </span>
@@ -35,8 +36,7 @@
 
 <br><br>
 
-🌱 I’m currently learning ...
-<span><img align="center" alt="Typescript" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></span> and enrolled in the ["Full Stack open" to _Deep Dive Into Modern Web Development_](https://github.com/patchamama/fullstackopen-2023).
+🌱 I’m currently enrolled in the ["Full Stack open" to _Deep Dive Into Modern Web Development_](https://github.com/patchamama/fullstackopen-2023).
 
 <span><a href="https://www.linkedin.com/in/urquioladev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></span>
 
