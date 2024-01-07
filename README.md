@@ -37,8 +37,6 @@
 
 <br><br>
 
-🌱 I’m currently enrolled in the ["Full Stack open" to _Deep Dive Into Modern Web Development_](https://github.com/patchamama/fullstackopen-2023).
-
 <span><a href="https://www.linkedin.com/in/urquioladev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></span>
 
 <!--
