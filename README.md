@@ -1,7 +1,6 @@
 # Hi there, I'm Armando 👋
 
 # <div align="center">
-# https://a3510377.github.io/devicon/
 
   <div style="display: inline-block">
  
@@ -41,6 +40,7 @@
 <span><a href="https://www.linkedin.com/in/urquioladev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></span>
 
 <!--
+https://a3510377.github.io/devicon/
 https://github.com/anuraghazra/github-readme-stats
 
 # ![Snake animation](/github-grid-snake.svg)
