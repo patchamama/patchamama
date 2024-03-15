@@ -28,10 +28,10 @@
 </span>
 <span><img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 </span>
-<span><img align="center" alt="laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"></span>
+<span><img align="center" alt="laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/laravel/laravel-original.svg"></span>
 <span><img align="center" alt="PostgreSql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
 </span>
-<span><img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"></span>
+<span><img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg"></span>
 <span><img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
 </span>
 
